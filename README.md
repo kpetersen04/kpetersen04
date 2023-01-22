@@ -1,6 +1,6 @@
 ### 🙋🏼‍♀️ Welcome, I'm Kirstin...
 
-#### A software engineering student.
+#### I'm a software engineering student.
 
 I'm currently enrolled on the General Assembly Software Engineering Immersive Course which covers Web Development from frontend to backend. My expected completion date is 6 May 2023 and I'll then be looking for my first role as a junior full stack software engineer.
 
