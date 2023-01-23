@@ -6,4 +6,4 @@ I'm currently enrolled on the General Assembly Software Engineering Immersive Co
 
 #### Check out some of my recent work:
 
-- <a href='https://github.com/kpetersen04/kpetersen04.github.io'>PokeMan Game</a> <img width='18px' src='https://i.imgur.com/O0l6NQ0t.png'/> → JavaScript, HTML, CSS
+- <a href='https://github.com/kpetersen04/kpetersen04.github.io'>PokeMan Game</a> <img width='18px' src='https://i.imgur.com/m35t6Qo.png'/> → JavaScript, HTML, CSS
