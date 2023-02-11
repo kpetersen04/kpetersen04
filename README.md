@@ -8,4 +8,4 @@ I'm currently enrolled on the General Assembly Software Engineering Immersive Co
 
 - <a href='https://github.com/kpetersen04/kpetersen04.github.io'>PokeMan Game</a> <img width='18px' src='https://i.imgur.com/m35t6Qo.png'/> → JavaScript, HTML, CSS
 
-- <a href='https://github.com/kpetersen04/kpetersen04.github.io'>Currency Convert</a> <img width='18px' src='https://i.imgur.com/RZHCwe3.png'/> → 
+- <a href=''>Currency Converter</a> <img width='18px' src='https://i.imgur.com/RZHCwe3.png'/> → 
