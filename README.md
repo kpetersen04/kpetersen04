@@ -8,6 +8,8 @@ I'm currently enrolled on the General Assembly Software Engineering Immersive Co
 
 - <a href='https://github.com/kpetersen04/Currency-converter'>Currency Converter</a> <img width='18px' src='https://i.imgur.com/RZHCwe3.png'/> → JavaScript, React, Sass
 
+- <a href='https://github.com/kpetersen04/Rock-Paper-Scissors'>Currency Converter</a> <img width='18px' src='https://i.imgur.com/WrPnGEh.png'/> → JavaScript, React, CSS, Bootstrap
+
 - <a href='https://github.com/kpetersen04/kpetersen04.github.io'>PokeMan Game</a> <img width='18px' src='https://i.imgur.com/m35t6Qo.png'/> → JavaScript, HTML, CSS
 
 
