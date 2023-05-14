@@ -6,6 +6,8 @@ I'm currently enrolled on the General Assembly Software Engineering Immersive Co
 
 #### Check out some of my recent work:
 
+- <a href='https://github.com/kpetersen04/Wild-Swimming-APP'>Wild Swimming</a> <img width='18px' src='https://i.imgur.com/AZ4XaLZ.png'/> -> JavaScript, Python, ReactJS, Sass, Bootstrap, Django, PostgreSQL
+
 - <a href='https://github.com/kpetersen04/Travel-App'>Design My Trip</a> <img width='18px' src='https://i.imgur.com/AZ4XaLZ.png'/> -> JavaScript, MERN, Sass, Bootstrap
   
 - <a href='https://github.com/kpetersen04/Currency-converter'>Currency Converter</a> <img width='18px' src='https://i.imgur.com/RZHCwe3.png'/> → JavaScript, React, Sass
