@@ -6,6 +6,8 @@ I'm currently enrolled on the General Assembly Software Engineering Immersive Co
 
 #### Check out some of my recent work:
 
+- <a href='https://github.com/kpetersen04/Travel-App'>Design My Trip</a> <img width=18px' src='https://i.imgur.com/AZ4XaLZ.png'/> -> JavaScript, React, Sass
+  
 - <a href='https://github.com/kpetersen04/Currency-converter'>Currency Converter</a> <img width='18px' src='https://i.imgur.com/RZHCwe3.png'/> → JavaScript, React, Sass
 
 - <a href='https://github.com/kpetersen04/Rock-Paper-Scissors'>Rock Paper Scissors</a> <img width='18px' src='https://i.imgur.com/WrPnGEh.png'/> → JavaScript, React, CSS, Bootstrap
