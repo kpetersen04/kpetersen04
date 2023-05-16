@@ -2,7 +2,7 @@
 
 #### I'm a Junior Software Engineer located in London. 
 
-## JavaScript | Python | HTML | CSS
+### JavaScript | Python | HTML | CSS
 
 #### Check out some of my recent work:
 
