@@ -1,8 +1,8 @@
 ### 🙋🏼‍♀️ Welcome, I'm Kirstin...
 
-#### I'm a Junior Software Engineer located in London. 
+### I'm a Junior Software Engineer located in London. 
 
-### I have experience working with: JavaScript | Python | HTML | CSS
+#### I have experience working with: JavaScript | Python | HTML | CSS
 
 #### Check out some of my recent work:
 
