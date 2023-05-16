@@ -1,8 +1,8 @@
 ### 🙋🏼‍♀️ Welcome, I'm Kirstin...
 
-#### I'm a software engineering student.
+#### I'm a Junior Software Engineer located in London. 
 
-I'm currently enrolled on the General Assembly Software Engineering Immersive Course which covers Web Development from frontend to backend. My expected completion date is 6 May 2023 and I'll then be looking for my first role as a junior software engineer.
+#### JavaScript - Python - HTML - CSS
 
 #### Check out some of my recent work:
 
